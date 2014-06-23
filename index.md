@@ -46,16 +46,17 @@ It is clear that the increase in bike share participation correlates with a decr
 * Citi Bike Sharing App allows the user to explore Citi Bike user data in a fun interactive way.
 * The user can see traveling patterns in their neighborhoods, see how long it takes other users to bike to different locations.
 * Will engage the user and encourage them to try the Citi Bike program.
-* Can be used by tourists, locals, young, and old alike.
+* It is easy to use. Go to the [CitiBike App](https://johanmedvinsson.shinyapps.io/CitiBike/), follow the instructions, and try it out.
 
-* Go to the [CitiBike App](https://johanmedvinsson.shinyapps.io/CitiBike/) to try it out.
-
-* Disclaimers: 
-1. I am not affiliated with Citi Bike nor do they endorse my application.
+* Go to [CitiBikeNYC](http://www.citibikenyc.com/) to find out more about Citi Bike and her to access the [user data](http://www.citibikenyc.com/system-data) used in the app.
+   
+      
+      
+Disclaimers: 
+        1. I am not affiliated with Citi Bike nor do they endorse my application.
         2. Although I think bike sharing programs are great and that they do offers many benefits the claims made here are exaggerated to say the least as are the claims of the utility of the app.
+        3. Only the data from September 2013 (~1 million trips) was used for this App.
         
-
---- .class #id
 
 
 
