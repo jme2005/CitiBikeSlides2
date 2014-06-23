@@ -50,10 +50,7 @@ It is clear that the increase in bike share participation correlates with a decr
 
 * Go to [CitiBikeNYC](http://www.citibikenyc.com/) to find out more about Citi Bike and her to access the [user data](http://www.citibikenyc.com/system-data) used in the app.
 
-Disclaimers: 
-1. I am not affiliated with Citi Bike nor do they endorse my application.
-2. Although I think bike sharing programs are great and that they do offers many benefits the claims made here are exaggerated to say the least as are the claims of the utility of the app.
-3. Only the data from September 2013 (~1 million trips) was used for this App.
+Disclaimers: 1. I am not affiliated with Citi Bike nor do they endorse my application. 2. Although I think bike sharing programs are great and that they do offers many benefits the claims made here are exaggerated to say the least as are the claims of the utility of the app. 3. Only the data from September 2013 (~1 million trips) was used for this App.
         
 
 
